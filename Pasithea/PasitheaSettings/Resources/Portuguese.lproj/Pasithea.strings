@@ -1,0 +1,33 @@
+"ENABLED" = "Ativado";
+
+"PASITHEA_KEYBOARD" = "Teclado Pasithea";
+"KEYBOARD_DETAIL" = "Para o Teclado Pasithea funcionar, o mesmo substitui o Teclado Tamil ou Tibetano. Por defeito, Pasithea substitui o Teclado Tibetano. Escolha qual dos teclados n„o quer usar.";
+
+"OFF" = "Desl.";
+"TAMIL" = "Tamil";
+"TIBETAN" = "Tibetano";
+
+"SKIP_KEYBOARD" = "Sem Teclado";
+"USE_NOTIFY" = "NotificaÁıes";
+"KEY_INPUT_SOUND" = "Sons do Teclado";
+"OPTION_DETAIL" = "Se a opÁ„o ìSem Tecladoî estiver ativa, o Teclado Pasithea sÛ aparecer· durante a mudanÁa de teclados no iOS, acessivel atravÈs da tecla globo. Se as notificaÁıes estiverem ativas, Pasithea enviar· uma notificaÁ„o sempre que copiar algo para a ·rea de transferÍncias.";
+
+"MAX_HISTORY" = "M·x HistÛrico ¡rea de NotificaÁıes";
+
+"DATA_MANAGEMENT" = "Gest„o de Dados";
+"VIEW_HISTORY" = "Ver HistÛrico ¡rea de NotificaÁıes";
+
+"AUTO_BACKUP" = "Backup Autom·tico";
+"RESTORE_BACKUP" = "Restaurar Backup";
+"CREATE_BACKUP" = "Criar Backup";
+"DELETE_BACKUP" = "Apagar Backup";
+
+"VIDEO" = "VÌdeo";
+
+"COPYRIGHT_J3TWEAKS" = "© 2015 J≥tweaks - desenvolvido por ichitaso e Hiraku. Agradecimento especial para @Sorega4 por criar o Ìcone para o Pasithea.";
+
+"SETTINGS" = "DefiniÁıes";
+
+"OPTION" = "OpÁıes";
+
+"SUPPORT" = "Suporte";

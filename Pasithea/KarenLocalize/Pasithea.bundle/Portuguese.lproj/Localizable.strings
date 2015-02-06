@@ -1,0 +1,69 @@
+"COPIED" = "\"%@\" foi copiado para a ¡rea de TransferÍncia.";
+
+"CLEAR_ALL" = "Apagar Tudo";
+"HISTORY" = "HistÛrico";
+"FAVORITES" = "Favoritos";
+
+"RESPRING_REQUIRED" = "Respring Necess·rio";
+"RESPRING_REQUIRED_DETAIL" = "… necess·rio efetuar um respring para as alteraÁıes das definiÁıes do Teclado Pasithea terem efeito. Deseja efetuar o respring agora?";
+
+"NO" = "N„o";
+"YES" = "Sim";
+"APPLY" = "Aplicar";
+"CANCEL" = "Cancelar";
+"OK" = "OK";
+
+"OPEN_IN_TWITTER_QUERY" = "Abrir no Twitter?";
+"OPEN_IN_TWEETBOT" = "Abrir no Tweetbot";
+"OPEN_IN_THE_WORLD" = "Abrir no The World";
+"OPEN_IN_TWEETLOGIX" = "Abrir no Tweetlogix";
+"OPEN_IN_TWITTER" = "Abrir no Twitter";
+"OPEN_IN_SAFARI" = "Abrir no Safari";
+
+"FOLLOW_J3TWEAKS" = "Seguir @J3tweaks";
+"FOLLOW_ICHITASO" = "Seguir @ichitaso";
+"FOLLOW_HIRAKUJIRA" = "Seguir @hirakujira";
+"FOLLOW_KAREN" = "Seguir @angelXwind";
+
+"WATCH_THE_VIDEO" = "Visualizar o VÌdeo";
+"WATCH_THE_VIDEO_DETAIL" = "O vÌdeo de lanÁamento do Pasithea est· disponÌvel atravÈs do YouTube e do Youku. Por favor escolha o serviÁo de vÌdeo.";
+"YOUTUBE" = "YouTube";
+"YOUKU" = "Youku";
+
+"RESTORE_BACKUP" = "Restaurar Backup";
+"RESTORE_BACKUP_DETAIL" = "Restaurar dados do Pasithea do backup? Todas as alteraÁıes aos dados do Pasithea depois de ter sido efetuado o backup ser„o perdidas.";
+
+"CREATE_BACKUP" = "Criar Backup";
+"CREATE_BACKUP_DETAIL" = "Criar um backup dos dados do Pasithea? Isto vai sobrescrever os dados do backup j· existente.";
+
+"DELETE_BACKUP" = "Apagar Backup";
+"DELETE_BACKUP_DETAIL" = "Apagar backup dos dados do Pasithea? Isto vai apagar irremediavelmente os dados do backup j· existente.";
+
+"BACKUP_RESTORE_FAILED" = "Restauro do Backup Falhou";
+"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea n„o conseguiu encontrar um backup de dadospara restaurar.";
+
+"BACKUP_SUCCESSFULLY_RESTORED" = "Backup Restaurado com Sucesso";
+"BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "Os dados do Pasithea foram restaurados com sucesso.";
+
+"BACKUP_SUCCESSFUL" = "Backup Bem Sucedido";
+"BACKUP_SUCCESSFUL_DETAIL" = "Os dados do Pasithea foram restaurados com sucesso.";
+
+"BACKUP_FAILED" = "Backup Falhou";
+"BACKUP_FAILED_DETAIL" = "Pasithea n„o conseguiu encontrar dados para efetuar o backup";
+
+"BACKUP_DELETED_SUCCESSFULLY" = "Backup Apagado com Sucesso";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea pagou com sucesso o backup.";
+
+"FATAL_ERROR" = "Erro CrÌtico";
+"FATAL_ERROR_DETAIL" = "Pasithea encontrou um erro crÌtico.";
+
+"TWEET_INITIAL_TEXT" = "Estou a usar o #Pasithea criado por @J3tweaks e adoro-o!";
+"TEXT_TO_SHARE" = "Verifiquem o Pasithea criado por J≥tweaks!";
+
+"PLEASE_PURCHASE" = "Por favor compre o Pasithea atravÈs do Cydia.";
+"THANK_YOU_PURCHASE" = "Obrigado pela sua compra.";
+
+"CLEAR_DATA_HISTORY" = "Limpar o HistÛrico de Dados";
+"CLEAR_DATA_HISTORY_DETAIL" = "Esta opÁ„o vai limpar todos os dados da ¡rea de TransferÍncias salvos pelo Pasithea. Se nenhum backup for efetuado, ent„o esta alteraÁ„o ser· irreversivel.";
+"CLEAR_FAV_HISTORY" = "Limpar HistÛrico dos Favoritos";
+"CLEAR_PASTEBOARD_HISTORY" = "Limpar HistÛrico da ¡rea de TransferÍncias";
