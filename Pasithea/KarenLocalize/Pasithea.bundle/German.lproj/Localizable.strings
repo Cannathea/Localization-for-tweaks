@@ -66,3 +66,4 @@
 "CLEAR_DATA_HISTORY" = "Verlauf löschen";
 "CLEAR_DATA_HISTORY_DETAIL" = "Alle momentan von Pasithea gespeicherten Einträge werden aus der Zwischenablage gelöscht. Wenn keine Sicherungen vorliegen, kann dieser Vorgang nicht rückgängig gemacht werden.";
 "CLEAR_FAV_HISTORY" = "Favoriten-Verlauf löschen";
+"CLEAR_PASTEBOARD_HISTORY" = "Zwischenablage-Verlauf löschen";
