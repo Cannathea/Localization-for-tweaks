@@ -1,0 +1,33 @@
+"ENABLED" = "Etkin";
+
+"PASITHEA_KEYBOARD" = "Pasithea Klavye";
+"KEYBOARD_DETAIL" = "Pasithea Klavyesinin çalışması için, ya Tamil ya da Tibet Klavyesini değiştirmesi gerekmektedir. Varsayılan olarak, Pasithea Tibet Klavyesini değiştirir. Hangi Klavyeyi kullanmıyorsanız onu seçiniz.";
+
+"OFF" = "Kapalı";
+"TAMIL" = "Tamil";
+"TIBETAN" = "Tibet";
+
+"SKIP_KEYBOARD" = "Klavyeyi Geç";
+"USE_NOTIFY" = "Bildirimler";
+"KEY_INPUT_SOUND" = "Klavye Sesleri";
+"OPTION_DETAIL" = "Eğer “Klavyeyi Geç“ etkinleştirilirse, Pasithea Klavye sadece klavye değiştiricide ortaya çıkacaktır, Dünya tuşuna basılı tutularak ulaşılabilir. Eğer Bildirimler etkinleştirilirse, Pasithea Panoya birşeyi her kopyalamanızda size bir bildirim gönderecektir.";
+
+"MAX_HISTORY" = "Maximum Pano Geçmişi";
+
+"DATA_MANAGEMENT" = "Veri Yönetimi";
+"VIEW_HISTORY" = "Pano Geçmişine Bak";
+
+"AUTO_BACKUP" = "Otomatik Yedekleme";
+"RESTORE_BACKUP" = "Yedeklemeyi Geri Yükle";
+"CREATE_BACKUP" = "Yedekleme Oluştur";
+"DELETE_BACKUP" = "Yedeklemeyi Sil";
+
+"VIDEO" = "Video";
+
+"COPYRIGHT_J3TWEAKS" = "© 2015 J³tweaks - ichitaso ve Hiraku tarafından geliştirilmiştir. Pasithea ikonunu tasarladığı için @Sorega4 Özel Teşekkür Ederiz.";
+
+"SETTINGS" = "Ayarlar";
+
+"OPTION" = "Seçenekler";
+
+"SUPPORT" = "Destek";
