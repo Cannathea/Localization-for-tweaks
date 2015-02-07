@@ -20,7 +20,7 @@
 "OPEN_IN_TWITTER" = "Twitterで開く";
 "OPEN_IN_SAFARI" = "Safariで開く";
 
-"FOLLOW_J3TWEAKS" = "@J3tweaksをFollow";
+"FOLLOW_CANNATHEA" = "@CannatheaをFollow";
 "FOLLOW_ICHITASO" = "@ichitasoをFollow";
 "FOLLOW_HIRAKUJIRA" = "@hirakujiraをFollow";
 "FOLLOW_KAREN" = "@angelXwindをFollow";
@@ -57,8 +57,8 @@
 "FATAL_ERROR" = "何らかのエラー";
 "FATAL_ERROR_DETAIL" = "何らかのエラーによりバックアップの削除に失敗しました。";
 
-"TWEET_INITIAL_TEXT" = "I'm using #Pasithea by @J3tweaks and I love it!";
-"TEXT_TO_SHARE" = "J³tweaksのPasitheaはとても便利です。チェックしてみてください！";
+"TWEET_INITIAL_TEXT" = "I'm using #Pasithea by @Cannathea and I love it!";
+"TEXT_TO_SHARE" = "CannatheaのPasitheaはとても便利です。チェックしてみてください！";
 
 "PLEASE_PURCHASE" = "Cydia Storeにて購入してください。";
 "THANK_YOU_PURCHASE" = "ご購入いただきありがとうございます。";

@@ -20,7 +20,7 @@
 "OPEN_IN_TWITTER" = "Open in Twitter";
 "OPEN_IN_SAFARI" = "Open in Safari";
 
-"FOLLOW_J3TWEAKS" = "Follow @J3tweaks";
+"FOLLOW_CANNATHEA" = "Follow @Cannathea";
 "FOLLOW_ICHITASO" = "Follow @ichitaso";
 "FOLLOW_HIRAKUJIRA" = "Follow @hirakujira";
 "FOLLOW_KAREN" = "Follow @angelXwind";
@@ -46,7 +46,7 @@
 "BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "Pasithea's data was successfully restored from backup.";
 
 "BACKUP_SUCCESSFUL" = "Backup Successful";
-"BACKUP_SUCCESSFUL_DETAIL" = "Pasithea's data was successfully restored from backup.";
+"BACKUP_SUCCESSFUL_DETAIL" = "Pasithea successfully created a backup.";
 
 "BACKUP_FAILED" = "Backup Failed";
 "BACKUP_FAILED_DETAIL" = "Pasithea was unable to find any data to back up.";
@@ -57,11 +57,11 @@
 "FATAL_ERROR" = "Fatal Error";
 "FATAL_ERROR_DETAIL" = "Pasithea has encountered a fatal error.";
 
-"TWEET_INITIAL_TEXT" = "I'm using #Pasithea by @J3tweaks and I love it!";
-"TEXT_TO_SHARE" = "Check out Pasithea by J³tweaks!";
+"TWEET_INITIAL_TEXT" = "I'm using #Pasithea by @Cannathea and I love it!";
+"TEXT_TO_SHARE" = "Check out Pasithea by Cannathea!";
 
 "PLEASE_PURCHASE" = "Please purchase Pasithea from the Cydia Store.";
-"THANK_YOU_PURCHASE" = "Thank you for your purchase.";
+"THANK_YOU_PURCHASE" = "Thank you for purchasing Pasithea.";
 
 "CLEAR_DATA_HISTORY" = "Clear Data History";
 "CLEAR_DATA_HISTORY_DETAIL" = "This will clear all Pasteboard data currently saved by Pasithea. If no backups were made, then this change is irreversible.";
