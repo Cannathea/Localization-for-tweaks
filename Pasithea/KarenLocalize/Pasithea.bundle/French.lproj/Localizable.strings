@@ -4,8 +4,8 @@
 "HISTORY" = "Historique";
 "FAVORITES" = "Favoris";
 
-"RESPRING_REQUIRED" = "Veuillez Respring";
-"RESPRING_REQUIRED_DETAIL" = "Vous devez respring pour appliquer la nouvelle configuration clavier de Pasithea. Voulez-vous respring maintenant ?";
+"RESPRING_REQUIRED" = "Veuillez Relancer le Springboard";
+"RESPRING_REQUIRED_DETAIL" = "Vous devez relancer le Springboard pour appliquer la nouvelle configuration clavier de Pasithea. Voulez-vous le relancer maintenant ?";
 
 "NO" = "Non";
 "YES" = "Oui";
@@ -13,7 +13,7 @@
 "CANCEL" = "Annuler";
 "OK" = "OK";
 
-"OPEN_IN_TWITTER_QUERY" = "Ouvrir dans Twitter?";
+"OPEN_IN_TWITTER_QUERY" = "Ouvrir dans Twitter";
 "OPEN_IN_TWEETBOT" = "Ouvrir dans Tweetbot";
 "OPEN_IN_THE_WORLD" = "Ouvrir dans The World";
 "OPEN_IN_TWEETLOGIX" = "Ouvrir dans Tweetlogix";
