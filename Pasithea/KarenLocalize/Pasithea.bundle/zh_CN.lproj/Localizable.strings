@@ -1,6 +1,6 @@
 "COPIED" = "\"%@\" 已拷贝到剪贴板";
 
-"CLEAR_ALL" = "清除纪录";
+"CLEAR_ALL" = "清除记录";
 "HISTORY" = "剪贴板";
 "FAVORITES" = "书签";
 
@@ -39,8 +39,8 @@
 "DELETE_BACKUP" = "删除备份";
 "DELETE_BACKUP_DETAIL" = "您确定要删除 Pasithea 的备份数据吗？这将会永久删除目前已存在的备份文件";
 
-"BACKUP_RESTORE_FAILED" = "回复备份失败";
-"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea 找不到任何备份文件，因此无法回复。";
+"BACKUP_RESTORE_FAILED" = "恢复备份失败";
+"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea 找不到任何备份文件，因此无法恢复。";
 
 "BACKUP_SUCCESSFULLY_RESTORED" = "回复备份成功";
 "BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "Pasithea 已成功回复上次备份的数据。";

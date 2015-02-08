@@ -1,0 +1,33 @@
+"ENABLED" = "Activé";
+
+"PASITHEA_KEYBOARD" = "Clavier Pasithea";
+"KEYBOARD_DETAIL" = "Pour son utilisation, Pasithea doit remplacer le clavier Tamoul ou Tibétain. Par défaut, c'est le clavier Tibétain qui sera remplacé. Veuillez choisir le clavier qui sera remplacé.";
+
+"OFF" = "Non";
+"TAMIL" = "Tamoul";
+"TIBETAN" = "Tibétain";
+
+"SKIP_KEYBOARD" = "Ignorer le clavier";
+"USE_NOTIFY" = "Notifications";
+"KEY_INPUT_SOUND" = "Sons du clavier";
+"OPTION_DETAIL" = "Si l'option “Ignorer le clavier” est activée, le clavier de Pasithera n'apparaîtra que dans le menu de changement de clavier, accessible par la touche globe. Si les nitifications sont activées, Pasithea enverra une notification chaque fois que vous copierez quelque chose dans le presse-papier.";
+
+"MAX_HISTORY" = "Maximum de l'historique du presse papier";
+
+"DATA_MANAGEMENT" = "Gérer les données";
+"VIEW_HISTORY" = "Voir l'historique du presse papier";
+
+"AUTO_BACKUP" = "Sauvegarde auto";
+"RESTORE_BACKUP" = "Restaurer la sauvegarde";
+"CREATE_BACKUP" = "Créer une sauvegarde";
+"DELETE_BACKUP" = "Supprimer la sauvegarde";
+
+"VIDEO" = "Vidéo";
+
+"COPYRIGHT_CANNATHEA" = "© 2015 Cannathea - développé par ichitaso and Hiraku. Remerciements particuliers à @Sorega4 pour le design de l'icone de Pasithea.";
+
+"SETTINGS" = "Configuration";
+
+"OPTION" = "Options";
+
+"SUPPORT" = "Aide";
