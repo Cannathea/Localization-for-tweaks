@@ -1,4 +1,5 @@
 "ENABLED" = "Abilitato";
+"DISABLE_IN_APPS" = "Disable in Applications";
 
 "PASITHEA_KEYBOARD" = "Tastiera Pasithea";
 "KEYBOARD_DETAIL" = "Per funzionare la tastiera Pasithea deve sostituire la tastiera Tamil o quella Tibetan. Di default Pasithea sostituisce la tastiera Tibetan. Scegli la tastiera che non hai bisogno di usare.";
@@ -9,7 +10,9 @@
 
 "SKIP_KEYBOARD" = "Salta tastiera";
 "USE_NOTIFY" = "Notifiches";
+"DARK_KEYBOARD" = "Dark Keyboard";
 "KEY_INPUT_SOUND" = "Suoni tastiera";
+"SERACH_ENGINE" = "Search Engine";
 "OPTION_DETAIL" = "Se l'opzione “Salta tastiera” è abilitata, la tastiera Pasithea apparirà solo nel selettore tastiera di iOS, accessibile tenendo premuto il tasto con il globo. Se le notifiche sono abilitate, Pasithea invierà una notifica ogni volta che copierai qualcosa negli appunti.";
 
 "MAX_HISTORY" = "Massima cronologia appunti";

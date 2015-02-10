@@ -1,4 +1,5 @@
 "ENABLED" = "启用";
+"DISABLE_IN_APPS" = "在特定应用内禁用";
 
 "PASITHEA_KEYBOARD" = "Pasithea 键盘";
 "KEYBOARD_DETAIL" = "Pasithea 会替换一个您不使用的键盘为自定义键盘。请在列表中选择您不使用的键盘以供 Pasithea 取代之，默认为藏文键盘。";
@@ -9,7 +10,9 @@
 
 "SKIP_KEYBOARD" = "跳过键盘";
 "USE_NOTIFY" = "通知";
+"DARK_KEYBOARD" = "黑色键盘";
 "KEY_INPUT_SOUND" = "按键音";
+"SEARCH_ENGINE" = "搜寻引擎";
 "OPTION_DETAIL" = "当「跳过键盘」启用时，Pasithea 的键盘只会在长按地球键时出现在选单中，平常短按地球键则不会出现。当启用「通知」时，每当复制文字，通知中心就会出现提示。";
 
 "MAX_HISTORY" = "剪贴板最大储存数量";

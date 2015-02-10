@@ -1,4 +1,5 @@
 "ENABLED" = "使用する";
+"DISABLE_IN_APPS" = "無効にするアプリ";
 
 "PASITHEA_KEYBOARD" = "Pasitheaキーボード";
 "KEYBOARD_DETAIL" = "Pasitheaキーボードを使用するためにはチベット語かタミール語のキーボードどちらかを置換して利用します。デフォルトはチベット語のキーボードです。Offにするとキーボードは作成されません。";
@@ -9,7 +10,9 @@
 
 "SKIP_KEYBOARD" = "キーボードのスキップ";
 "USE_NOTIFY" = "通知を行う";
+"DARK_KEYBOARD" = "黒色キーボード";
 "KEY_INPUT_SOUND" = "キーボードサウンド";
+"SEARCH_ENGINE" = "検索エンジン";
 "OPTION_DETAIL" = "キーボードのスキップをONにするとキーボード切り替えボタンの長押しでのみPasitheaキーボードが選択できます。通知をONにするとコピーした時に通知を行います。";
 
 "MAX_HISTORY" = "履歴の最大保存数";

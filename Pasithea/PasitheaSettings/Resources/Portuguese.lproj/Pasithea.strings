@@ -1,4 +1,5 @@
 "ENABLED" = "Ativado";
+"DISABLE_IN_APPS" = "Disable in Applications";
 
 "PASITHEA_KEYBOARD" = "Teclado Pasithea";
 "KEYBOARD_DETAIL" = "Para o Teclado Pasithea funcionar, o mesmo substitui o Teclado Tamil ou Tibetano. Por defeito, Pasithea substitui o Teclado Tibetano. Escolha qual dos teclados n„o quer usar.";
@@ -9,7 +10,9 @@
 
 "SKIP_KEYBOARD" = "Sem Teclado";
 "USE_NOTIFY" = "NotificaÁıes";
+"DARK_KEYBOARD" = "Dark Keyboard";
 "KEY_INPUT_SOUND" = "Sons do Teclado";
+"SERACH_ENGINE" = "Search Engine";
 "OPTION_DETAIL" = "Se a opÁ„o ìSem Tecladoî estiver ativa, o Teclado Pasithea sÛ aparecer· durante a mudanÁa de teclados no iOS, acessivel atravÈs da tecla globo. Se as notificaÁıes estiverem ativas, Pasithea enviar· uma notificaÁ„o sempre que copiar algo para a ·rea de transferÍncias.";
 
 "MAX_HISTORY" = "M·x HistÛrico ¡rea de NotificaÁıes";
