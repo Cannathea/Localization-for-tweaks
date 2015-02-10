@@ -1,13 +1,13 @@
-"COPIED" = "\"%@\" foi copiado para a ¡rea de TransferÍncia.";
+"COPIED" = "\"%@\" foi copiado para a Área de Transferência.";
 
 "CLEAR_ALL" = "Apagar Tudo";
-"HISTORY" = "HistÛrico";
+"HISTORY" = "Histórico";
 "FAVORITES" = "Favoritos";
 
-"RESPRING_REQUIRED" = "Respring Necess·rio";
-"RESPRING_REQUIRED_DETAIL" = "… necess·rio efetuar um respring para as alteraÁıes das definiÁıes do Teclado Pasithea terem efeito. Deseja efetuar o respring agora?";
+"RESPRING_REQUIRED" = "Respring Necessário";
+"RESPRING_REQUIRED_DETAIL" = "É necessário efetuar um respring para as alterações das definições do Teclado Pasithea terem efeito. Deseja efetuar o respring agora?";
 
-"NO" = "N„o";
+"NO" = "Não";
 "YES" = "Sim";
 "APPLY" = "Aplicar";
 "CANCEL" = "Cancelar";
@@ -26,21 +26,21 @@
 "FOLLOW_KAREN" = "Seguir @angelXwind";
 
 "WATCH_THE_VIDEO" = "Visualizar o VÌdeo";
-"WATCH_THE_VIDEO_DETAIL" = "O vÌdeo de lanÁamento do Pasithea est· disponÌvel atravÈs do YouTube e do Youku. Por favor escolha o serviÁo de vÌdeo.";
+"WATCH_THE_VIDEO_DETAIL" = "O vídeo de lançamento do Pasithea está disponível através do YouTube e do Youku. Por favor escolha o serviçoo de vídeo.";
 "YOUTUBE" = "YouTube";
 "YOUKU" = "Youku";
 
 "RESTORE_BACKUP" = "Restaurar Backup";
-"RESTORE_BACKUP_DETAIL" = "Restaurar dados do Pasithea do backup? Todas as alteraÁıes aos dados do Pasithea depois de ter sido efetuado o backup ser„o perdidas.";
+"RESTORE_BACKUP_DETAIL" = "Restaurar dados do Pasithea do backup? Todas as alterações aos dados do Pasithea depois de ter sido efetuado o backup serão perdidas.";
 
 "CREATE_BACKUP" = "Criar Backup";
-"CREATE_BACKUP_DETAIL" = "Criar um backup dos dados do Pasithea? Isto vai sobrescrever os dados do backup j· existente.";
+"CREATE_BACKUP_DETAIL" = "Criar um backup dos dados do Pasithea? Isto vai sobrescrever os dados do backup já existente.";
 
 "DELETE_BACKUP" = "Apagar Backup";
-"DELETE_BACKUP_DETAIL" = "Apagar backup dos dados do Pasithea? Isto vai apagar irremediavelmente os dados do backup j· existente.";
+"DELETE_BACKUP_DETAIL" = "Apagar backup dos dados do Pasithea? Esta opção vai apagar irremediavelmente os dados do backup já existente.";
 
 "BACKUP_RESTORE_FAILED" = "Restauro do Backup Falhou";
-"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea n„o conseguiu encontrar um backup de dadospara restaurar.";
+"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea não conseguiu encontrar um backup de dados para restaurar.";
 
 "BACKUP_SUCCESSFULLY_RESTORED" = "Backup Restaurado com Sucesso";
 "BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "Os dados do Pasithea foram restaurados com sucesso.";
@@ -49,21 +49,21 @@
 "BACKUP_SUCCESSFUL_DETAIL" = "Os dados do Pasithea foram restaurados com sucesso.";
 
 "BACKUP_FAILED" = "Backup Falhou";
-"BACKUP_FAILED_DETAIL" = "Pasithea n„o conseguiu encontrar dados para efetuar o backup";
+"BACKUP_FAILED_DETAIL" = "Pasithea não conseguiu encontrar dados para efetuar o backup";
 
 "BACKUP_DELETED_SUCCESSFULLY" = "Backup Apagado com Sucesso";
-"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea pagou com sucesso o backup.";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea apagou com sucesso o backup.";
 
-"FATAL_ERROR" = "Erro CrÌtico";
-"FATAL_ERROR_DETAIL" = "Pasithea encontrou um erro crÌtico.";
+"FATAL_ERROR" = "Erro Crítico";
+"FATAL_ERROR_DETAIL" = "Pasithea encontrou um erro crítico.";
 
 "TWEET_INITIAL_TEXT" = "Estou a usar o #Pasithea criado por @Cannathea e adoro-o!";
-"TEXT_TO_SHARE" = "Verifiquem o Pasithea criado por J≥tweaks!";
+"TEXT_TO_SHARE" = "Verifiquem o Pasithea criado por J3tweaks!";
 
-"PLEASE_PURCHASE" = "Por favor compre o Pasithea atravÈs do Cydia.";
+"PLEASE_PURCHASE" = "Por favor compre o Pasithea através do Cydia.";
 "THANK_YOU_PURCHASE" = "Obrigado pela sua compra.";
 
-"CLEAR_DATA_HISTORY" = "Limpar o HistÛrico de Dados";
-"CLEAR_DATA_HISTORY_DETAIL" = "Esta opÁ„o vai limpar todos os dados da ¡rea de TransferÍncias salvos pelo Pasithea. Se nenhum backup for efetuado, ent„o esta alteraÁ„o ser· irreversivel.";
-"CLEAR_FAV_HISTORY" = "Limpar HistÛrico dos Favoritos";
-"CLEAR_PASTEBOARD_HISTORY" = "Limpar HistÛrico da ¡rea de TransferÍncias";
+"CLEAR_DATA_HISTORY" = "Limpar o Histórico de Dados";
+"CLEAR_DATA_HISTORY_DETAIL" = "Esta opção vai limpar todos os dados da Área de Transferências salvos pelo Pasithea. Se nenhum backup for efetuado, então esta alteração será irreversivel.";
+"CLEAR_FAV_HISTORY" = "Limpar Histórico dos Favoritos";
+"CLEAR_PASTEBOARD_HISTORY" = "Limpar Histórico da Área de Transferências";
