@@ -12,7 +12,7 @@
 "USE_NOTIFY" = "Notifications";
 "DARK_KEYBOARD" = "Dark Keyboard";
 "KEY_INPUT_SOUND" = "Keyboard Sounds";
-"SERACH_ENGINE" = "Search Engine";
+"SEARCH_ENGINE" = "Search Engine";
 "OPTION_DETAIL" = "If the “Skip Keyboard” option is enabled, Pasithea Keyboard will only appear in the iOS keyboard switcher, accessible by holding the globe key. If notifications are enabled, Pasithea will send a notification every time you copy something to the pasteboard.";
 
 "MAX_HISTORY" = "Max Pasteboard History";

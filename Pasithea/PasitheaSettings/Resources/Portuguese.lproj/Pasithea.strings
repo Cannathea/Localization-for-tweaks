@@ -12,7 +12,7 @@
 "USE_NOTIFY" = "Notificações";
 "DARK_KEYBOARD" = "Teclado Escuro";
 "KEY_INPUT_SOUND" = "Sons do Teclado";
-"SERACH_ENGINE" = "Motor de BuscaSearch Engine";
+"SEARCH_ENGINE" = "Motor de BuscaSearch Engine";
 "OPTION_DETAIL" = "Se a opção 'Sem Teclado' estiver ativa, o Teclado Pasithea só aparecerá durante a mudança de teclados no iOS, acessivel através da tecla globo. Se as notificações estiverem ativas, Pasithea enviará uma notificação sempre que copiar algo para a Área de transferências.";
 
 "MAX_HISTORY" = "Máx Histórico Área de Transferência";

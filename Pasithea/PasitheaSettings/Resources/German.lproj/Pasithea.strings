@@ -1,5 +1,5 @@
 "ENABLED" = "Aktiviert";
-"DISABLE_IN_APPS" = "Disable in Applications";
+"DISABLE_IN_APPS" = "Deaktivieren Sie in Anwendungen";
 
 "PASITHEA_KEYBOARD" = "Pasithea Tastatur";
 "KEYBOARD_DETAIL" = "Damit Pasithea Tastatur funktioniert, muss es entweder die tamilische oder tibetanische Tastatur ersetzen. Standardmäßig ersetzt Pasithea die tibetanische Tastatur. Wähle die Tastatur, die du nicht brauchst.";
@@ -10,9 +10,9 @@
 
 "SKIP_KEYBOARD" = "Tastatur überspringen";
 "USE_NOTIFY" = "Benachrichtigungen";
-"DARK_KEYBOARD" = "Dark Keyboard";
+"DARK_KEYBOARD" = "Dunkle Keyboard";
 "KEY_INPUT_SOUND" = "Tastatur-Töne";
-"SERACH_ENGINE" = "Search Engine";
+"SEARCH_ENGINE" = "Suchmaschine";
 "OPTION_DETAIL" = "Wenn die “Tastatur überspringen”-Option aktiviert ist, wird Pasithea Tastatur nur in der iOS Tastatur-Auswahl erscheinen, die über einen langen Druck auf die Globus-Taste erreichbar ist. Wenn Benachrichtigungen aktiviert sind, wird Pasithea jedes Mal eine Benachrichtigung senden, wenn du etwas in die Zwischenablage kopierst.";
 
 "MAX_HISTORY" = "Max. Zwischenablagen-Verlauf";

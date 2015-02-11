@@ -1,5 +1,5 @@
 "ENABLED" = "מופעל";
-"DISABLE_IN_APPS" = "Disable in Applications";
+"DISABLE_IN_APPS" = "להשבית ביישומים";
 
 "PASITHEA_KEYBOARD" = "המקלדת של Pasithea";
 "KEYBOARD_DETAIL" = "כדי שהמקלדת של Pasithea תעבוד, עליה להחליף את המקלדת הטיבטית או הטמילית. ברירת המחדל היא להחליף את המקלדת הטיבטית. בחר/י באיזו מהם שאינך משתמש/ת.";
@@ -10,9 +10,9 @@
 
 "SKIP_KEYBOARD" = "דילוג מקלדת";
 "USE_NOTIFY" = "עדכונים";
-"DARK_KEYBOARD" = "Dark Keyboard";
+"DARK_KEYBOARD" = "מקלדת אפלה";
 "KEY_INPUT_SOUND" = "צלילי מקלדת";
-"SERACH_ENGINE" = "Search Engine";
+"SEARCH_ENGINE" = "מנוע חיפוש";
 "OPTION_DETAIL" = "אם האפשרות ״דילוג מקלדת״ פעילה, המקלדת של Pasithea תופיע רק במחליף השפות של iOS, שנגיש ע״י החזקת סמל הגלובוס במקלדת. אם עדכונים פעילים, Pasithea תשלח התראות בכל פעם שתעתיק משהו ללוח-הגזירים.";
 
 "MAX_HISTORY" = "מקסימום הסטוריית לוח-גזירים";

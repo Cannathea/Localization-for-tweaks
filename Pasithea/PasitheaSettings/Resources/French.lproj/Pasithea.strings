@@ -1,5 +1,5 @@
 "ENABLED" = "Activé";
-"DISABLE_IN_APPS" = "Disable in Applications";
+"DISABLE_IN_APPS" = "Désactiver dans Applications";
 
 "PASITHEA_KEYBOARD" = "Clavier Pasithea";
 "KEYBOARD_DETAIL" = "Pour son utilisation, Pasithea doit remplacer le clavier Tamoul ou Tibétain. Par défaut, c'est le clavier Tibétain qui sera remplacé. Veuillez choisir le clavier qui sera remplacé.";
@@ -10,9 +10,9 @@
 
 "SKIP_KEYBOARD" = "Ignorer le clavier";
 "USE_NOTIFY" = "Notifications";
-"DARK_KEYBOARD" = "Dark Keyboard";
+"DARK_KEYBOARD" = "Clavier foncé";
 "KEY_INPUT_SOUND" = "Sons du clavier";
-"SERACH_ENGINE" = "Search Engine";
+"SEARCH_ENGINE" = "Moteur de recherche";
 "OPTION_DETAIL" = "Si l'option “Ignorer le clavier” est activée, le clavier de Pasithera n'apparaîtra que dans le menu de changement de clavier, accessible par la touche globe. Si les notifications sont activées, Pasithea enverra une notification chaque fois que vous copierez quelque chose dans le presse-papier.";
 
 "MAX_HISTORY" = "Historique maximum du presse papier";
