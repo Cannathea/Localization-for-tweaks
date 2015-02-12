@@ -1,0 +1,36 @@
+"ENABLED" = "مفعلة";
+"DISABLE_IN_APPS" = "Disable in Applications";
+
+"PASITHEA_KEYBOARD" = "Pasithea Keyboard";
+"KEYBOARD_DETAIL" = "من أجل Pasithea لوحة المفاتيح للعمل، يجب أن يحل أي  مكان  من التاميل أو لوحة المفاتيح التبت. افتراضيا، Pasithea يحل محل لوحة المفاتيح التبت. أيهما تختار لوحة المفاتيح التي لا تحتاج إلى استخدام.";
+
+"OFF" = "غير مفعل";
+"TAMIL" = "Tamil";
+"TIBETAN" = "Tibetan";
+
+"SKIP_KEYBOARD" = "تخطي لوحة المفاتيح";
+"USE_NOTIFY" = "إشعار";
+"DARK_KEYBOARD" = "Dark Keyboard";
+"KEY_INPUT_SOUND" = "صوت لوحة المفاتيح";
+"SEARCH_ENGINE" = "Search Engine";
+"OPTION_DETAIL" = "إذا تم تمكين “تخطي لوحة المفاتيح” الخيار، سوف تظهر لوحة المفاتيح Pasithea فقط في لوحة المفاتيح iOS ، يمكن الوصول إليها عن طريق الضغط على مفتاح الكرة الارضيّة. إذا تم تمكين الإشعارات، سوف Pasithea بإرسال اشعارات كل مرة تقوم بنسخ شيء الى سجل النسخ .";
+
+"MAX_HISTORY" = "الحد الاقصى لنسخ";
+
+"DATA_MANAGEMENT" = "إدارة البيانات";
+"VIEW_HISTORY" = "مشاهدة السجل";
+
+"AUTO_BACKUP" = "نسخ احتياطي تلقائي";
+"RESTORE_BACKUP" = "استعادة النسخة الاحتياطية";
+"CREATE_BACKUP" = "انشاء نسخة احتياطية";
+"DELETE_BACKUP" = "حذف النسخة الاحتياطية";
+
+"VIDEO" = "فيديو";
+
+"COPYRIGHT_CANNATHEA" = "© 2015 Cannathea - developed by ichitaso and Hiraku. Special thanks to @Sorega4 for designing the Pasithea icon.";
+
+"SETTINGS" = "الاعدادات";
+
+"OPTION" = "خيارات";
+
+"SUPPORT" = "يدعم";
