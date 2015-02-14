@@ -13,7 +13,7 @@
 "DARK_KEYBOARD" = "Tmavá klávesnice";
 "KEY_INPUT_SOUND" = "Zvuky klávesnice";
 "SEARCH_ENGINE" = "Vyhledávací engine";
-"OPTION_DETAIL" = "Pokud je zapnuta volba "Přeskakovat klávesnici", klávesnice Pasithea se objeví pouze v iOS výběru klávesnice (při podržení tlačítka zeměkoule). Pokud jsou zapnuta oznámení, Pasithea pošle oznámení vždy, když něco zkopírujete do schránky.";
+"OPTION_DETAIL" = "Pokud je zapnuta volba “Přeskakovat klávesnici”, klávesnice Pasithea se objeví pouze v iOS výběru klávesnice (při podržení tlačítka zeměkoule). Pokud jsou zapnuta oznámení, Pasithea pošle oznámení vždy, když něco zkopírujete do schránky.";
 
 "MAX_HISTORY" = "Maximální historie schránky";
 
