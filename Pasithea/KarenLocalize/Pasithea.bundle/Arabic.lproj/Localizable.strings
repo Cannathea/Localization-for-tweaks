@@ -1,19 +1,19 @@
 "COPIED" = "\"%@\" was copied to the pasteboard.";
 
-"CLEAR_ALL" = "تنظيف الكل";
+"CLEAR_ALL" = "تنظيف الكل ";
 "HISTORY" = "السجل";
 "FAVORITES" = "المفضلة";
 
-"RESPRING_REQUIRED" = "Respring يجب عمل";
-"RESPRING_REQUIRED_DETAIL" = "مطلوب respring من أجل التغيير في إعدادات Pasithea لوحة المفاتيح لتصبح نافذة المفعول. هل تريد respring الآن؟";
+"RESPRING_REQUIRED" = "Respring يجب عمل ";
+"RESPRING_REQUIRED_DETAIL" = "مطلوب respring من أجل التغيير في إعدادات Pasithea لوحة المفاتيح لتصبح نافذة المفعول. هل تريد عمل respring الآن؟";
 
 "NO" = "لا";
 "YES" = "نعم";
 "APPLY" = "تاكيد";
-"CANCEL" = "إلغاء";
+"CANCEL" = "إلغاء ";
 "OK" = "نعم";
 
-"OPEN_IN_TWITTER_QUERY" = "Open in Twitter?";
+"OPEN_IN_TWITTER_QUERY" = " فتح في Twitter?";
 "OPEN_IN_TWEETBOT" = "فتح في Tweetbot";
 "OPEN_IN_THE_WORLD" = "فتح في The World";
 "OPEN_IN_TWEETLOGIX" = "فتح في Tweetlogix";
@@ -34,9 +34,9 @@
 "RESTORE_BACKUP_DETAIL" = "استعادة البيانات من النسخة الاحتياطية في Pasithea؟ ستفقد كافة التغييرات على البيانات Pasithea بعد تم إجراء النسخ الاحتياطي.";
 
 "CREATE_BACKUP" = "انشاء نسخة احتياطية";
-"CREATE_BACKUP_DETAIL" = "إنشاء نسخة احتياطية من البيانات Pasithea على ذلك؟ هذا وسوف الكتابة فوق بيانات النسخ الاحتياطي المحفوظة حاليا، إن وجدت.";
+"CREATE_BACKUP_DETAIL" = "إنشاء نسخة احتياطية من البيانات Pasithea على ذلك؟ هذا وسوف الكتابة فوق بيانات النسخ الاحتياطي المحفوظة حاليا، إذا تريد.";
 
-"DELETE_BACKUP" = "حذف النسخة الاحتياطية";
+"DELETE_BACKUP" = "حذف النسخة الاحتياطية ";
 "DELETE_BACKUP_DETAIL" = "حذف نسخة احتياطية من البيانات Pasithea على ذلك؟ هذا وسوف تحذف بشكل لا رجعة فيه من البيانات النسخ الاحتياطي المحفوظة حاليا، إن وجدت.";
 
 "BACKUP_RESTORE_FAILED" = "فشل استعادة النسخة الاحتياطية";
@@ -52,7 +52,7 @@
 "BACKUP_FAILED_DETAIL" = "لم يتمكن من العثور على أي بيانات لإجراء نسخ احتياطي Pasithea.";
 
 "BACKUP_DELETED_SUCCESSFULLY" = "تم حذف النسخة الاحتياطية بنجاح";
-"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea　تم حذف النسخة الاحتياطية بنجاح.";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea تم حذف النسخة الاحتياطية بنجاح .";
 
 "FATAL_ERROR" = "خطأ فادح";
 "FATAL_ERROR_DETAIL" = "Pasithea واجه خطأ فادح.";
