@@ -1,5 +1,5 @@
 "ENABLED" = "مفعلة ";
-"DISABLE_IN_APPS" = "Disable in Applications";
+"DISABLE_IN_APPS" = "تعطيل في التطبيقات";
 
 "PASITHEA_KEYBOARD" = "Pasithea Keyboard";
 "KEYBOARD_DETAIL" = "لكي تعمل لوحة المفاتيح  Pasithea، يجب استبدال بإحدى الغتين Tamil أو لوحة المفاتيح Tibetan.بلوضع  الافتراضي، Pasithea يحل محل لوحة المفاتيح Tibetan. تستطيع اختيار اي لوحة مفاتيح لا اي لغة اخرى لا تستخدمها .";
@@ -10,7 +10,7 @@
 
 "SKIP_KEYBOARD" = "تخطي لوحة المفاتيح";
 "USE_NOTIFY" = "الاشعارات";
-"DARK_KEYBOARD" = "Dark Keyboard";
+"DARK_KEYBOARD" = "لوحة المفاتيح السوداء";
 "KEY_INPUT_SOUND" = "صوت لوحة المفاتيح";
 "SEARCH_ENGINE" = "Search Engine";
 "OPTION_DETAIL" = "إذا تم تمكين 'تخطي لوحة المفاتيح' الخيار، سوف تظهر لوحة المفاتيح Pasithea فقط في لوحة المفاتيح iOS ، يمكن الوصول إليها عن طريق الضغط على مفتاح الكرة الارضيّة. إذا تم تمكين الإشعارات، سوف Pasithea بإرسال اشعارات كل مرة تقوم بنسخ شيء الى سجل النسخ .";
