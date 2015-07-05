@@ -9,6 +9,8 @@
 "TIBETAN" = "チベット語";
 
 "SKIP_KEYBOARD" = "キーボードのスキップ";
+"LIMIT_CHARACTERS" = "保存する文字数を制限";
+"SWAP_DELETE" = "Deleteキーを入れ替える";
 "USE_NOTIFY" = "通知を行う";
 "DARK_KEYBOARD" = "黒色キーボード";
 "KEY_INPUT_SOUND" = "キーボードサウンド";

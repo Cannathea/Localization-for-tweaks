@@ -9,6 +9,8 @@
 "TIBETAN" = "Tibet";
 
 "SKIP_KEYBOARD" = "Klavyeyi Geç";
+"LIMIT_CHARACTERS" = "Karakter sayısını sınırlayın";
+"SWAP_DELETE" = "silmek tuşuna Swap";
 "USE_NOTIFY" = "Bildirimler";
 "DARK_KEYBOARD" = "Koyu Klavye";
 "KEY_INPUT_SOUND" = "Klavye Sesleri";

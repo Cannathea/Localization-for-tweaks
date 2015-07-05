@@ -9,6 +9,8 @@
 "TIBETAN" = "Tibetská";
 
 "SKIP_KEYBOARD" = "Přeskakovat klávesnici";
+"LIMIT_CHARACTERS" = "Omezení počtu znaků";
+"SWAP_DELETE" = "Swap klávesy Delete";
 "USE_NOTIFY" = "Oznámení";
 "DARK_KEYBOARD" = "Tmavá klávesnice";
 "KEY_INPUT_SOUND" = "Zvuky klávesnice";

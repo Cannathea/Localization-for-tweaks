@@ -9,6 +9,8 @@
 "TIBETAN" = "Tibetanisch";
 
 "SKIP_KEYBOARD" = "Tastatur überspringen";
+"LIMIT_CHARACTERS" = "Beschränken Sie die Anzahl der Zeichen";
+"SWAP_DELETE" = "Tauschen Sie die Entf-Taste";
 "USE_NOTIFY" = "Benachrichtigungen";
 "DARK_KEYBOARD" = "Dunkle Keyboard";
 "KEY_INPUT_SOUND" = "Tastatur-Töne";

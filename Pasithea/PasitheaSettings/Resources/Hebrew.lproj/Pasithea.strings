@@ -9,6 +9,8 @@
 "TIBETAN" = "טיבטית";
 
 "SKIP_KEYBOARD" = "דילוג מקלדת";
+"LIMIT_CHARACTERS" = "הגבל את מספר התווים";
+"SWAP_DELETE" = "להחליף את מקש מחק";
 "USE_NOTIFY" = "עדכונים";
 "DARK_KEYBOARD" = "מקלדת אפלה";
 "KEY_INPUT_SOUND" = "צלילי מקלדת";

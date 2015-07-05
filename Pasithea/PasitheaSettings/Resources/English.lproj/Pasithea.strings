@@ -9,6 +9,8 @@
 "TIBETAN" = "Tibetan";
 
 "SKIP_KEYBOARD" = "Skip Keyboard";
+"LIMIT_CHARACTERS" = "Limit the number of characters";
+"SWAP_DELETE" = "Swap the Delete key";
 "USE_NOTIFY" = "Notifications";
 "DARK_KEYBOARD" = "Dark Keyboard";
 "KEY_INPUT_SOUND" = "Keyboard Sounds";

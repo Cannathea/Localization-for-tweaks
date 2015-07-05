@@ -9,6 +9,8 @@
 "TIBETAN" = "Tibetan";
 
 "SKIP_KEYBOARD" = "Salta tastiera";
+"LIMIT_CHARACTERS" = "Limitare il numero di caratteri";
+"SWAP_DELETE" = "Scambia il tasto Canc";
 "USE_NOTIFY" = "Notifiches";
 "DARK_KEYBOARD" = "Keyboard Scuro";
 "KEY_INPUT_SOUND" = "Suoni tastiera";
