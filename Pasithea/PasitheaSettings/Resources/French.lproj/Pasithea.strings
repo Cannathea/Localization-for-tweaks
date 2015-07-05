@@ -15,7 +15,7 @@
 "DARK_KEYBOARD" = "Clavier foncé";
 "KEY_INPUT_SOUND" = "Sons du clavier";
 "SEARCH_ENGINE" = "Moteur de recherche";
-"OPTION_DETAIL" = "Si l'option “Ignorer le clavier” est activée, le clavier de Pasithera n'apparaîtra que dans le menu de changement de clavier, accessible par la touche globe. Si les notifications sont activées, Pasithea enverra une notification chaque fois que vous copierez quelque chose dans le presse-papier.";
+"OPTION_DETAIL" = "Si l'option “Ignorer le clavier” est activée, le clavier de Pasithea n'apparaîtra que dans le menu de changement de clavier, accessible par la touche globe. Si les notifications sont activées, Pasithea enverra une notification chaque fois que vous copierez quelque chose dans le presse-papier.";
 
 "MAX_HISTORY" = "Historique maximum du presse papier";
 
